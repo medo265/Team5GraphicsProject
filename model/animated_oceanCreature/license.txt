@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ocean Creature
+* source:	https://sketchfab.com/3d-models/ocean-creature-5c17cca6086e4910aa12e7d701ccd6a1
+* author:	bast_yy (https://sketchfab.com/bast_y)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ocean Creature" (https://sketchfab.com/3d-models/ocean-creature-5c17cca6086e4910aa12e7d701ccd6a1) by bast_yy (https://sketchfab.com/bast_y) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

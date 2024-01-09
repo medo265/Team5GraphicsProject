@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animated fire
+* source:	https://sketchfab.com/3d-models/animated-fire-ebb16a3df22247dd990a04585de64741
+* author:	Yannick Deharo (https://sketchfab.com/YannickDeharo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animated fire" (https://sketchfab.com/3d-models/animated-fire-ebb16a3df22247dd990a04585de64741) by Yannick Deharo (https://sketchfab.com/YannickDeharo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

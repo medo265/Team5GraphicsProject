@@ -1,0 +1,11 @@
+Model Information:
+* title:	Manta Ray Birostris (animated)
+* source:	https://sketchfab.com/3d-models/manta-ray-birostris-animated-c49e5bb3cb32477cbbf96f36a47c9f2b
+* author:	Violaine (https://sketchfab.com/violaine)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Manta Ray Birostris (animated)" (https://sketchfab.com/3d-models/manta-ray-birostris-animated-c49e5bb3cb32477cbbf96f36a47c9f2b) by Violaine (https://sketchfab.com/violaine) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

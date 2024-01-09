@@ -1,0 +1,8 @@
+Model Information:
+* title:	Punter
+* source:	https://sketchfab.com/3d-models/punter-1423985be54e497b93326b683c08ae12
+* author:	Carolien Bijvoet (https://sketchfab.com/carolien)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
